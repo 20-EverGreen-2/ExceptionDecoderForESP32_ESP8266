@@ -24,6 +24,6 @@ How to generate a exception:
 
 
 Additional info:
-Script tested under Windows + VS Code + PlatformIO + Arduino Framework
-Script not tested on VS Code linux version!!!
-Script not tested on ESP-IDF framework!!!
+Script tested under Windows + VS Code + PlatformIO + Arduino Framework.
+Script not tested on VS Code linux version!!!.
+Script not tested on ESP-IDF framework!!!.
