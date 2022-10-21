@@ -2,7 +2,7 @@
 Exception decoder powershell script for ESP8266 &amp; ESP32
 
 How to install:
-1. Copy .ps1 file to your root proyect folder
+1. Copy .ps1 file to your root proyect folder. Example: %USERPROFILE%\Documents\PlatformIO\Projects\MY_ESP_PROJECT
 2. Thats all folk's!!!
 
 How to use:
@@ -13,3 +13,7 @@ How to use:
 4. Select your correct environment. (script analyze your .elf automatically to select the correct addr2line.exe).
 5. Paste backtrace with right mouse click.
 6. Press enter and you get exception data decoded!!!
+
+
+
+Script not tested on VS Code linux version!!!
