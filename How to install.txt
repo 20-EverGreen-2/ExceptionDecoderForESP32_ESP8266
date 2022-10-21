@@ -1,3 +1,0 @@
-1. Copy .ps1 file to your root proyect folder
-
-2. Thats all folk's!!!
