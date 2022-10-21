@@ -2,7 +2,7 @@
 Exception decoder powershell script for ESP8266 &amp; ESP32
 
 How to install:
-1. Copy .ps1 file to your root proyect folder. Example: %USERPROFILE%\Documents\PlatformIO\Projects\MY_ESP_PROJECT
+1. Copy .ps1 file to your root proyect folder. Example: %USERPROFILE%\Documents\PlatformIO\Projects\MY_ESP_PROJECT (In other words, where platformio.ini is located)
 2. Thats all folk's!!!
 
 
